@@ -10,4 +10,4 @@ diccionario = {
 # Imprimir el diccionario
 df = pd.DataFrame(diccionario)
 
-df.head(2)
+df.head(4)
